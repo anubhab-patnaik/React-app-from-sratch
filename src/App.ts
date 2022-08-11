@@ -3,12 +3,14 @@ import "./App.css";
 
 class App extends Component {
   render() {
-    return (
+    return (<>
+
       <div className="App">
         <h1> Hello, World! </h1>
       </div>
-    );
+      
+    </>);
   }
 }
 
-export default hot(module)(App);
+export default App;
