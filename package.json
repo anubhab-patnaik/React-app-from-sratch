@@ -1,0 +1,19 @@
+{
+  "name": "react-app-from-scratch",
+  "version": "1.0.0",
+  "description": "Creating a react app from scratch without using CRA",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anubhab-patnaik/React-app-from-sratch.git"
+  },
+  "author": "Anubhab Patnaik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anubhab-patnaik/React-app-from-sratch/issues"
+  },
+  "homepage": "https://github.com/anubhab-patnaik/React-app-from-sratch#readme"
+}
